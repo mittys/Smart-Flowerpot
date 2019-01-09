@@ -34,13 +34,13 @@ DONANIM ICIN EKLENTILER
 
 YAZILIM
 
-- Json nesnelerinin serverdan cekilmesi
+- Json nesnelerinin sunucudan cekilmesi
 
 - Arayuz
 
 - Verilerin islenmesi
 
-** Android icin hem donanim hem de server baglantisi
+** Android icin hem donanim hem de sunucu baglantisi
 
 YAZILIM ICIN EKLENTILER
 
