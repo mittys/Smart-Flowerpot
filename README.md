@@ -54,7 +54,7 @@ YAZILIM ICIN EKLENTILER
 
 SERVER
 
-- json verilerinin saklanmasi
+- Json verilerinin saklanmasi
 
 
 
