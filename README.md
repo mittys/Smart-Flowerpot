@@ -10,6 +10,8 @@ https://www.robotistan.com/toprak-nemi-algilama-sensoru?query=toprak%20nem%20&
 
 https://www.robotistan.com/su-gecirmez-ds18b20-dijital-isi-sensoru?query=su%20gecirmez%20si%20sensoru&
 
+https://www.youtube.com/watch?v=gmkgLBfIw7w&ab_channel=TeknoButon
+
 - Su pompasi ve basinc ve akis sensoru 
 
 https://www.roboshop.com.tr/mini-su-dalgic-pompasi?search=su%20pompasi
